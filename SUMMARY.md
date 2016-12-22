@@ -1,4 +1,4 @@
 # Summary
 
-* [开发规范](README.md)
+* [简介](README.md)
 
