@@ -1,4 +1,6 @@
 # 归一
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本书收集和整理了开发过程中用到的技术点及自己的理解和修正
+
+
 
